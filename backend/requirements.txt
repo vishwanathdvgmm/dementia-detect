@@ -1,0 +1,22 @@
+# ML & Core Data
+torch
+torchvision
+Pillow
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+
+# Model Validation / GradCAM
+grad-cam
+opencv-python
+
+# Backend / API
+fastapi
+uvicorn[standard]
+python-multipart
+
+# PDF Report Generation
+reportlab
+

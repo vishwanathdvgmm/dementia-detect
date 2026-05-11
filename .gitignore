@@ -1,0 +1,8 @@
+dataset/
+venv/
+task.md
+implementation_plan.md
+models/
+*.pth
+node_modules/
+__pycache__/
