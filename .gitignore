@@ -6,3 +6,4 @@ models/
 *.pth
 node_modules/
 __pycache__/
+*.docx
